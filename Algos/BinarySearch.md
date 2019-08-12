@@ -1,1 +1,1 @@
-![alt BinarySearch](BinarySearch.png)
+![BinarySearch](../Img/BinarySearch.png)
