@@ -1,1 +1,1 @@
-![BinarySearch](../Img/BinarySearch.png)
+![BinarySearch](../../Img/BinarySearch.png)
