@@ -1,0 +1,22 @@
+{
+  "name": "algos",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jasmine"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NgoMike/Algos.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/NgoMike/Algos/issues"
+  },
+  "homepage": "https://github.com/NgoMike/Algos#readme",
+  "dependencies": {
+    "jasmine": "^3.4.0"
+  }
+}
