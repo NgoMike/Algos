@@ -19,7 +19,7 @@ const binary_search = (array, key) => {
     midptIdx = Math.round(length / 2);
   }
 
-  const index = array[midptIdx] < key ? 0 : midptIdx;
+  const index = array[midptIdx] < key ? midptIdx : 0;
   const loopLength = array[midptIdx] < key ? length : midptIdx;
 
   if (array[midptIdx] === key) {
