@@ -68,4 +68,6 @@ class MyArray {
   }
 }
 
-const newArray = new MyArray(); // instantiate new MyArray copy
+// const newArray = new MyArray(); // instantiate new MyArray copy
+
+module.exports = { MyArray };
